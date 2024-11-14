@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWebApp", "FirstWebApp\FirstWebApp.csproj", "{9CF8BB19-5548-4A9B-B9D9-DB957101C996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{B01354FF-D137-4659-9EF1-2EE95EA58020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middleware", "Middleware\Middleware.csproj", "{B01354FF-D137-4659-9EF1-2EE95EA58020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCoreApp", "MVCCoreApp\MVCCoreApp.csproj", "{D11A7F88-E679-4293-8605-DB2427E76AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B01354FF-D137-4659-9EF1-2EE95EA58020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B01354FF-D137-4659-9EF1-2EE95EA58020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B01354FF-D137-4659-9EF1-2EE95EA58020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
