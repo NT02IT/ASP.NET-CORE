@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGnznXn6MLDypW+80demwchSnhakAAlchGoXp2P0RHzoYrTfXnnJHWyFlygsClfXWecheA4ylBmw2UrqUm8Vpw==",
+  "success": true,
+  "projectFilePath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/TaskManagerApp/TaskManagerApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEMHBpb/cExltoxgSkaeT/E8PMnMv8LT++sUzD9xCLXS3LDcHzgVChdbYdzaXT4+cScEGnWd1lusL1dY1lvojg==",
+  "success": true,
+  "projectFilePath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/ContactManagerApp/ContactManagerApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
