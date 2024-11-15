@@ -5,13 +5,28 @@ namespace DependencyInjection
 {
     public class Startup
     {
+        IWebHostEnvironment _env;
+        public Startup(IWebHostEnvironment env)
+        {
+            _env = env;
+        }
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
             services.AddRazorPages();
 
             // Đăng ký IProductService và ProductService trong DI container
-            services.AddTransient<IProductService, ProductService>();
+            // services.AddTransient<IProductService, BetterProductService>();
+
+            if (_env.IsProduction())
+            {
+                services.AddTransient<IProductService, BetterProductService>();
+            }
+            else
+            {
+                services.AddTransient<IProductService, ProductService>();
+            }
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
