@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eG8VeW4L3eUQSRGCrK5DjouU9hdsAD1GwVLEoJi9nBiTGnqpQQbTtudhn7BYJaFpyPR7/YBbt6ehcrYr35Dcyg==",
+  "dgSpecHash": "AQTX5imnob0=",
   "success": true,
   "projectFilePath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/FirstWebApp.csproj",
   "expectedPackageFiles": [
-    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
-    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.35/microsoft.netcore.app.host.osx-arm64.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }

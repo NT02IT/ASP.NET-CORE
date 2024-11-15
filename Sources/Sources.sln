@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCoreApp", "MVCCoreApp\MV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreForms", "ASPNetCoreForms\ASPNetCoreForms.csproj", "{4E9F1E7F-E763-4444-B5C0-C49E507C357D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{CA8BE20E-1F40-4695-B8FF-0217BF6F3FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8BE20E-1F40-4695-B8FF-0217BF6F3FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8BE20E-1F40-4695-B8FF-0217BF6F3FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8BE20E-1F40-4695-B8FF-0217BF6F3FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8BE20E-1F40-4695-B8FF-0217BF6F3FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
