@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMwEhvMvsXfN0Jy5lCFMZmDJ/a0YP6N3vQc0dO3Y2WtvE+vSHtEHgzx6tkSQmOjO8m4gpjjr7xnJraljHFVjRQ==",
+  "success": true,
+  "projectFilePath": "/Users/666silver/Downloads/ASP.NET-CORE-main/Sources/ASPNetCoreForms/ASPNetCoreForms.csproj",
+  "expectedPackageFiles": [
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

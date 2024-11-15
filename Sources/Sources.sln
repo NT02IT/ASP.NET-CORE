@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middleware", "Middleware\Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCoreApp", "MVCCoreApp\MVCCoreApp.csproj", "{D11A7F88-E679-4293-8605-DB2427E76AFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreForms", "ASPNetCoreForms\ASPNetCoreForms.csproj", "{4E9F1E7F-E763-4444-B5C0-C49E507C357D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D11A7F88-E679-4293-8605-DB2427E76AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9F1E7F-E763-4444-B5C0-C49E507C357D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
