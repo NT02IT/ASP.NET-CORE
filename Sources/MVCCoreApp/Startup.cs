@@ -9,6 +9,8 @@ namespace MVCCoreApp
             services.AddControllersWithViews();
             services.AddRazorPages();
 
+            // Đăng ký IHttpContextAccessor vào Dependency Injection container
+            services.AddHttpContextAccessor();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
