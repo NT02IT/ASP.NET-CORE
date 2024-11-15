@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfat/O1uhIBMQR7EPoXm7UyuN1O/y13Twq7+AnDE4cA30RWTgl8wvZqT7YCyyRA1AjvWqXg5YgM42Xn7C53/5Q==",
+  "success": true,
+  "projectFilePath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/DependencyInjection1/DependencyInjection1.csproj",
+  "expectedPackageFiles": [
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

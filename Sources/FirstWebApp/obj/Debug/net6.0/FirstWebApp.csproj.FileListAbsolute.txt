@@ -43,7 +43,6 @@ D:/Workspace/Develop/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/ref/First
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.RazorAssemblyInfo.cache
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.RazorAssemblyInfo.cs
-/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.sourcelink.json
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/staticwebassets.build.json
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/staticwebassets.development.json
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/staticwebassets/msbuild.FirstWebApp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -59,3 +58,4 @@ D:/Workspace/Develop/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/ref/First
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.pdb
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.genruntimeconfig.cache
 /Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/ref/FirstWebApp.dll
+/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/FirstWebApp/obj/Debug/net6.0/FirstWebApp.csproj.AssemblyReference.cache
