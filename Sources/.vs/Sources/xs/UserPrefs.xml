@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{9CF8BB19-5548-4A9B-B9D9-DB957101C996}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DependencyInjection FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Startup.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Services/ProductService.cs">
     <Files>
-      <File FileName="DependencyInjection/Startup.cs" Line="31" Column="14" />
+      <File FileName="DependencyInjection/Startup.cs" Line="1" Column="1" />
+      <File FileName="DependencyInjection/Services/ProductService.cs" Line="17" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Sources">
-            <Node name="MVCCoreApp">
-              <Node name="Controllers" expanded="True" selected="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

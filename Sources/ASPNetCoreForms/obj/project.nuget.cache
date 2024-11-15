@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DRi8fX8Vj7c=",
+  "dgSpecHash": "1imDbc0Wbp7hwT6nZKJw/DR3x9RW68bRvMbSXMCCCEk151VYaK+8PMG5ApL4oXKcLxPOOcnMHcGyFquBL+bzcg==",
   "success": true,
   "projectFilePath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/ASPNetCoreForms/ASPNetCoreForms.csproj",
   "expectedPackageFiles": [
-    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
-    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.35/microsoft.netcore.app.host.osx-arm64.6.0.35.nupkg.sha512"
+    "/Users/666silver/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/666silver/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
