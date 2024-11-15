@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Depe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection1", "DependencyInjection1\DependencyInjection1.csproj", "{6BE7EF0C-FDD0-48A3-8E81-D078B032DFFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerApp", "TaskManagerApp\TaskManagerApp.csproj", "{3AD2629D-805F-4105-B67B-AACC0D6F40B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerApp", "ContactManagerApp\ContactManagerApp.csproj", "{0EB55926-206D-4869-B385-875AE09338FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{6BE7EF0C-FDD0-48A3-8E81-D078B032DFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE7EF0C-FDD0-48A3-8E81-D078B032DFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE7EF0C-FDD0-48A3-8E81-D078B032DFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD2629D-805F-4105-B67B-AACC0D6F40B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD2629D-805F-4105-B67B-AACC0D6F40B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD2629D-805F-4105-B67B-AACC0D6F40B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD2629D-805F-4105-B67B-AACC0D6F40B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB55926-206D-4869-B385-875AE09338FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB55926-206D-4869-B385-875AE09338FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB55926-206D-4869-B385-875AE09338FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB55926-206D-4869-B385-875AE09338FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

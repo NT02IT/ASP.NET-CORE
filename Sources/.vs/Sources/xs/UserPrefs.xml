@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{9CF8BB19-5548-4A9B-B9D9-DB957101C996}|Default">
+﻿<Properties StartupConfiguration="{3AD2629D-805F-4105-B67B-AACC0D6F40B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContactManagerApp FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FirstWebApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
@@ -14,8 +15,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DependencyInjection1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DependencyInjection1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TaskManagerApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
