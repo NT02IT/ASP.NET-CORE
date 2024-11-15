@@ -8613,32 +8613,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agond\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/666silver/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Develop\\ASP.NET-CORE\\Sources\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/DependencyInjection/DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "D:\\Workspace\\Develop\\ASP.NET-CORE\\Sources\\DependencyInjection\\DependencyInjection.csproj",
-      "packagesPath": "C:\\Users\\agond\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Develop\\ASP.NET-CORE\\Sources\\DependencyInjection\\obj\\",
+      "projectPath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/DependencyInjection/DependencyInjection.csproj",
+      "packagesPath": "/Users/666silver/.nuget/packages/",
+      "outputPath": "/Users/666silver/Documents/GitHub/ASP.NET-CORE/Sources/DependencyInjection/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\agond\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/666silver/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8651,6 +8644,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8673,6 +8671,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8681,7 +8693,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
